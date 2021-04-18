@@ -58,7 +58,7 @@ sections:
     title: Problemi uličnih mačaka
     subtitle: Što mi radimo
     features:
-      - title: Content Creation
+      - title: Bolesti
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
