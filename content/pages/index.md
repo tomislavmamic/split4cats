@@ -95,7 +95,7 @@ sections:
       - input_type: text
         name: name
         label: Ime
-        default_value: Your name
+        default_value: Tvoje ime i prezime
         is_required: true
       - input_type: email
         name: email
