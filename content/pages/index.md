@@ -110,7 +110,7 @@ sections:
         name: consent
         label: Razumijem i prihvaćam da će moji podaci biti spremljeni.
         is_required: true
-    submit_label: Send Message
+    submit_label: Pošalji
     align_vert: top
     padding_top: medium
     padding_bottom: medium
