@@ -104,7 +104,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: message
-        label: akuroiP
+        label: akuroP
         default_value: Your message
       - input_type: checkbox
         name: consent
