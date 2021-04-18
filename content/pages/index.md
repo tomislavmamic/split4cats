@@ -93,7 +93,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Kratak i težak život
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Godišnje se promijeni >50% populacije
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
