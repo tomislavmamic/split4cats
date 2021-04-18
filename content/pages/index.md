@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Gradske mačke žive naglavačke
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Prosječna ulična mačka u Splitu živi kraće od godinu dana i cijeli život
+      pati od strašnih bolesti.
     actions:
       - label: Contact Me
         url: /contact
