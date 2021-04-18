@@ -94,10 +94,11 @@ sections:
         media_width: sixty
       - title: Kratak i težak život
         subtitle: Godišnje se promijeni >50% populacije
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Grad je opasno mjesto za život. Mačka koja se okoti u Splitu
+          najvjerojatnije neće preživjeti prvu godinu života. Svoj kratki život
+          će većinu vremena biti bolesna, gladna ili ozlijeđena, a umrijet će
+          strašnom smrću.
         actions:
           - label: See Past Work
             url: /faq
