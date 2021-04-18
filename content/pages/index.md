@@ -60,10 +60,10 @@ sections:
     features:
       - title: Bolesti
         subtitle: 30% splitskih mačaka ima mačju sidu
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Veliki broj mačaka omogućava lako širenje bolesti. Zbog toga velik
+          broj mačaka boluje od različitih bolesti i pate tijekom cijelog svog
+          života.
         actions:
           - label: See Writing Samples
             url: /faq
