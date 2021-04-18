@@ -77,10 +77,10 @@ sections:
         media_width: sixty
       - title: Glad i trovanje
         subtitle: Svaka mačka prolazi kroz glad i trovanje
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Mačke u gradu jedu ljudske otpatke. Za razliku od divljih mačaka, nisu
+          navikle loviti svoju hranu i zbog toga biraju između rizika od
+          trovanja ili konstantne gladi.
         actions:
           - label: Learn More
             url: /about
