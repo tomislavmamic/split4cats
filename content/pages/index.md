@@ -10,7 +10,7 @@ sections:
       - label: Uključi se
         url: /contact
         style: primary
-    image: images/hero.jpg
+    image: images/hero2.png
     image_alt: sterilizacija je važnija
     media_position: right
     media_width: fifty
