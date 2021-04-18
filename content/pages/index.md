@@ -108,9 +108,7 @@ sections:
         default_value: Tvoja poruka
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: Razumijem i prihvaćam da će moji podaci biti spremljeni.
         is_required: true
     submit_label: Send Message
     align_vert: top
