@@ -7,7 +7,7 @@ sections:
       Prosječna ulična mačka u Splitu živi kraće od godinu dana i cijeli život
       pati od strašnih bolesti.
     actions:
-      - label: Contact Me
+      - label: Uključi se
         url: /contact
         style: primary
     image: images/hero.jpg
