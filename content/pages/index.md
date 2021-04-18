@@ -105,7 +105,7 @@ sections:
       - input_type: textarea
         name: message
         label: Poruka
-        default_value: Your message
+        default_value: Tvoja poruka
       - input_type: checkbox
         name: consent
         label: >-
