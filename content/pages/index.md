@@ -11,7 +11,7 @@ sections:
         url: /contact
         style: primary
     image: images/hero.jpg
-    image_alt: A smiling woman
+    image_alt: sterilizacija je važnija
     media_position: right
     media_width: fifty
     align: left
