@@ -31,13 +31,7 @@ sections:
           Veliki broj mačaka omogućava lako širenje bolesti. Zbog toga velik
           broj mačaka boluje od različitih bolesti i pate tijekom cijelog svog
           života.
-        actions:
-          - label: See Writing Samples
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/hero.jpg
         image_alt: Feature 1 illustration
         media_position: right
