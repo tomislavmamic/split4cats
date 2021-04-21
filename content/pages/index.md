@@ -61,7 +61,7 @@ sections:
           će većinu vremena biti bolesna, gladna ili ozlijeđena, a umrijet će
           strašnom smrću.
         actions:
-          - label: See Past Work
+          - label: Learn more
             url: /faq
             style: primary
             has_icon: true
